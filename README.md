@@ -9,3 +9,4 @@ openced.open191011.R: 開放個体群除去法推定関数opence()のRソース�
 
 openced.open190906.cpp: 逐次ベイズフィルタによる周辺対数尤度計算のC++ソースコード
 
+openced.open191011.example.R: opence()の使用例
